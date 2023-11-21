@@ -49,5 +49,11 @@ button {
     border-radius: 20px;
     margin-left: 530px;
     cursor: pointer;
-   
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color: var(--cor-amarelo);
+    color: var(--cor-verde);
+   font-size: .9rem;
 }
