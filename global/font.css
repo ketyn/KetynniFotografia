@@ -1,1 +1,9 @@
-  
+  @font-face {
+    font-family: 'voga';
+    src: url(../font/voga-regular.otf);
+  }
+
+  @font-face {
+    font-family: 'montserrat';
+    src: url(../font/Montserrat-VariableFont_wght.ttf);
+  }
