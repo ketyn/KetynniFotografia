@@ -1,0 +1,26 @@
+.feedback img{
+    width: 35%;
+    display: inline;
+    justify-content: center;
+}
+
+.feedback{
+    background-color: var(--cor-verde);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.tittle-feedback h1{
+    background-color: var(--cor-verde);
+    color: var(--cor-amarelo);
+    font-family: 'voga';
+    letter-spacing: .5rem;
+    text-transform: uppercase;
+    font-weight: 200;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 60px;
+    font-size: 4rem;
+}
