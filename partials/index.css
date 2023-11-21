@@ -1,0 +1,6 @@
+@import '../global/global.css';
+
+@import 'pages/feedback.css';
+@import 'pages/footer.css';
+@import 'pages/main.css';
+@import 'pages/top.css';
