@@ -1,4 +1,8 @@
-section.box-backgroud {
-    max-width: 1450px;
+.box-backgroud {
+    width: 100%;
 }
 
+.box-backgroud,
+img {
+    max-width: 1285px;
+}
