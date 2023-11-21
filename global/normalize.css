@@ -4,14 +4,4 @@
     box-sizing: border-box;
     outline: none;
     border: none;
-    appearance: none;
-}
-
-body,
-html {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: var(--cor-creme);
-    height: 100vh;
 }
