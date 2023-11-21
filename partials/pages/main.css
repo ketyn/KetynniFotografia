@@ -1,9 +1,9 @@
-.box-backgroud {
+/* .box-backgroud {
     width: 100%;
 }
 
 @media (max-width: 576px) {
     .box-backgroud {
-        width: 100%;
+        max-width: 100px;
     }
-}
+} */
