@@ -1,6 +1,5 @@
 .box-backgroud img {
     width: 100%;
-    max-width: 1262px;
 }
 
 @media (max-width: 576px) {

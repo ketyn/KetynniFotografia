@@ -1,4 +1,4 @@
-footer{
+.footer a {
     background-color: var(--cor-branco);
     color: var(--cor-verde);
     font-family: 'montserrat';
@@ -10,6 +10,5 @@ footer{
     align-items: center;
     font-size: .6rem;
 }
-
 
 /* Espero que goste das minhas alterações */
