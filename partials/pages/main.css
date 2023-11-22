@@ -1,9 +1,10 @@
-/* .box-backgroud {
+.box-backgroud img {
     width: 100%;
+    max-width: 1262px;
 }
 
 @media (max-width: 576px) {
-    .box-backgroud {
-        max-width: 100px;
+    .box-backgroud img {
+        width: 100%;
     }
-} */
+}
