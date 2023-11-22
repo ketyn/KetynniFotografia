@@ -24,3 +24,20 @@
     padding-top: 60px;
     font-size: 4rem;
 }
+
+@media (max-width: 576px) {
+
+    .tittle-feedback h1{
+        background-color: var(--cor-verde);
+        color: var(--cor-amarelo);
+        font-family: 'voga';
+        letter-spacing: .2rem;
+        text-transform: uppercase;
+        font-weight: 200;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        padding-top: 30px;
+        font-size: 2rem;
+    }
+}
