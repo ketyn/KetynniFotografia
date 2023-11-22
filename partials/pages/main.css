@@ -1,8 +1,11 @@
-.box-backgroud {
+.box-backgroud img {
     width: 100%;
+    max-width: 1262px;
 }
 
-.box-backgroud,
-img {
-    max-width: 1285px;
+@media (max-width: 576px) {
+    .box-backgroud img {
+        width: 100%;
+    }
 }
+
